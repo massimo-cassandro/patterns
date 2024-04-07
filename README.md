@@ -5,6 +5,10 @@ Collezioni e risorse sul disegno dei patterns
 ... in corso ...
 
 
+## Patterns
+
+* [casa 1](patterns/casa-1/readme.md)
+
 
 ## Risorse
 ### Design
